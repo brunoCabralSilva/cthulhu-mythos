@@ -44,10 +44,15 @@ function Menu() {
       </section>
         <div className={enableMenu()}>
           <p className="route">Home</p>
+          <hr />
           <p className="route">Blog</p>
+          <hr />
           <p className="route">Contact</p>
+          <hr />
           <p className="route">Setups</p>
+          <hr />
           <p className="route">About</p>
+          <hr />
         </div>
 
     </div>
