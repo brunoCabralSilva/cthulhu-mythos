@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cthulhu-mythos/static/css/main.0d03a424.css",
-    "main.js": "/cthulhu-mythos/static/js/main.f8a41143.js",
+    "main.css": "/cthulhu-mythos/static/css/main.53879c55.css",
+    "main.js": "/cthulhu-mythos/static/js/main.b3a0ff6b.js",
     "static/media/rleh.jpg": "/cthulhu-mythos/static/media/rleh.a422a307dd7701bc098b.jpg",
     "static/media/cthulhu.jpg": "/cthulhu-mythos/static/media/cthulhu.58d0d97fc814a728e12d.jpg",
     "static/media/Ny.jpg": "/cthulhu-mythos/static/media/Ny.766c1f2de228f809409e.jpg",
@@ -13,11 +13,11 @@
     "static/media/azathoth.jpg": "/cthulhu-mythos/static/media/azathoth.58211520d64d96ae0800.jpg",
     "static/media/darkness.jpg": "/cthulhu-mythos/static/media/darkness.2bdff28da6011b607941.jpg",
     "index.html": "/cthulhu-mythos/index.html",
-    "main.0d03a424.css.map": "/cthulhu-mythos/static/css/main.0d03a424.css.map",
-    "main.f8a41143.js.map": "/cthulhu-mythos/static/js/main.f8a41143.js.map"
+    "main.53879c55.css.map": "/cthulhu-mythos/static/css/main.53879c55.css.map",
+    "main.b3a0ff6b.js.map": "/cthulhu-mythos/static/js/main.b3a0ff6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d03a424.css",
-    "static/js/main.f8a41143.js"
+    "static/css/main.53879c55.css",
+    "static/js/main.b3a0ff6b.js"
   ]
 }
