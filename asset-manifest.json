@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cthulhu-mythos/static/css/main.0d03a424.css",
+    "main.js": "/cthulhu-mythos/static/js/main.f8a41143.js",
+    "static/media/rleh.jpg": "/cthulhu-mythos/static/media/rleh.a422a307dd7701bc098b.jpg",
+    "static/media/cthulhu.jpg": "/cthulhu-mythos/static/media/cthulhu.58d0d97fc814a728e12d.jpg",
+    "static/media/Ny.jpg": "/cthulhu-mythos/static/media/Ny.766c1f2de228f809409e.jpg",
+    "static/media/lovecraft.jpg": "/cthulhu-mythos/static/media/lovecraft.cbf33311b0bc3a0bf43f.jpg",
+    "static/media/yellow-king.jpg": "/cthulhu-mythos/static/media/yellow-king.6bf91cb0883cb76471dc.jpg",
+    "static/media/d0e.jpg": "/cthulhu-mythos/static/media/d0e.48e6f5d400864b441896.jpg",
+    "static/media/car.jpg": "/cthulhu-mythos/static/media/car.420b608aae6fa0cf581f.jpg",
+    "static/media/tentaculos.jpg": "/cthulhu-mythos/static/media/tentaculos.adc10ba868ec783ab11a.jpg",
+    "static/media/azathoth.jpg": "/cthulhu-mythos/static/media/azathoth.58211520d64d96ae0800.jpg",
+    "static/media/darkness.jpg": "/cthulhu-mythos/static/media/darkness.2bdff28da6011b607941.jpg",
+    "index.html": "/cthulhu-mythos/index.html",
+    "main.0d03a424.css.map": "/cthulhu-mythos/static/css/main.0d03a424.css.map",
+    "main.f8a41143.js.map": "/cthulhu-mythos/static/js/main.f8a41143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d03a424.css",
+    "static/js/main.f8a41143.js"
+  ]
+}
