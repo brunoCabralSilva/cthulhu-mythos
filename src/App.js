@@ -8,7 +8,7 @@ export default class App extends React.Component {
   render() {
     return (
       <Switch>
-        <Route exact path='/' component={Inicio} />
+        <Route exact path='/cthulhu-mythos' component={Inicio} />
         <Route exact path='/blog/:id' component={Blog} />
         <Route />
       </Switch>

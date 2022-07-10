@@ -38,8 +38,7 @@ Richard L. Tierney , um escritor que também escreveu contos de Mitos e, tarde a
 <li>A cada cinco segundos, um novo slide é apresentado na tela;</li>
 <li>Caso o usuário clique em um dos botões que alternam os slides, um novo slide só é apresentado após dez segundos, garantindo que a alternância de slides não afete a experiência do usuário.</li>
 <li>Existe um grid ao fim onde os blocos em foco tem um destaque de luminosidade;</li>
-<li>Foi criado um menu minimizado que pode ser exibido ao clicar no ícone superior direito que sempre estará visível na tela;</li>
-<li>Livro.</li>
+<li>Foi criado um menu minimizado que pode ser exibido ao clicar no ícone superior direito que sempre estará visível na tela.</li>
 </p>
 
 
@@ -49,6 +48,7 @@ Richard L. Tierney , um escritor que também escreveu contos de Mitos e, tarde a
 * `CSS3`
 * `Javascript (ECMAScript 2018)`
 * `React`
+* `React Router Dom`
 
 <h2 id="pessoas-envolvidas">Desenvolvedores e demais contribuidores</h2>
 
