@@ -3,7 +3,7 @@ import '../css/navegacao-inicial.css';
 
 function Menu() {
   
-  const [ open, setOpen ] = useState(false);
+  const [ open, setOpen ] = useState(true);
 
   const openChange = () => {
     setOpen(!open);
